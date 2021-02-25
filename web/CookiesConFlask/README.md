@@ -6,6 +6,7 @@ Primero veamos para qué sirve una cookie. Una cookie sirve para recordar acceso
 
 Entonces, como podemos ver, una cookie puede servir incluso para loguearnos a un sitio sin siquiera escribir credenciales ya que recordó que anteriormente nos habíamos registrado.
 
-<p align="justify">
-  ![flask](flask.jpg)
-</p>
+
+
+![flask](flask.jpg)
+
