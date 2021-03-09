@@ -33,7 +33,7 @@ Como podemos observar, el servicio no está permitiendo sesiones nulas a recurso
 Al intentar acceder al servicio RDP, podemos observar que sí nos da conexión pero como no tenemos usuarios en este momento no podemos hacer mucho. En otra ocasión lo intentaremos ya que podríamos intentar fuerza bruta por RDP.
 
 
-![imagen](img/e.PNG)
+![imagen](img/e.png)
 
 ### ENUMERACIÓN
 Ahora, intentaré enumerar las versiones y sus servicios para ver si hay algo interesante.
@@ -101,7 +101,7 @@ Eso es lo que nos dice google al hacer una busqueda de ese servicio. Por lo tant
 Al leer sobre esa vulnerabilidad, encontramos [este script](https://www.exploit-db.com/exploits/47519) para automatizar el proceso pero lo que haremos es simplemente acceder por el navegador hacia esa ruta y ver qué sucede.
 
 
-![imagen2](img/bb.PNG)
+![imagen2](img/bb.png)
 
 
 Lo que hemos encontrado son unas credenciales para acceder directamente al servicio.
@@ -113,14 +113,14 @@ Password=TooComplicatedToGuessMeAhahahahahahahh
 entrando nos encontramos con la siguiente pantalla. 
 
 
-![imagen2](img/c.PNG)
+![imagen2](img/c.png)
 
 
 y como anteriormente vimos que el servicio RDP estaba abierto, simplemente ingresamos la dirección ip y vualá, tenemos acceso remoto.
 Al entrar podemos ver que la flag está a la vista y ya tendriamos completado nuestro mariachi.
 
 
-![imagen2](img/d.PNG)
+![imagen2](img/d.png)
 
 
 Contacto: [Linkedin](https://www.linkedin.com/in/jair-rodriguezz/) [Twitter](https://twitter.com/_niggurath_)
