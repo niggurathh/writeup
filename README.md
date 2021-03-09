@@ -8,8 +8,8 @@
 ## Maquinas PwnTilldawn
   * [ElMariachi-PC](pwntilldawn/ElMariachi-PC)
   * [Margheriti-Server](pwntilldawn/Margheriti-Server)
-  * [Stuntman Mike](pwntilldawn/Stuntman Mike)
+  * [Stuntman Mike](pwntilldawn/Stuntman%20Mike)
   * [Django](pwntilldawn/Django)
   * [Hollywood](pwntilldawn/Hollywood)
   * [Vega](pwntilldawn/Vega)
-  * [Mr. Blue](pwntilldawn/Mr. Blue)
+  * [Mr. Blue](pwntilldawn/Mr.%20Blue)
