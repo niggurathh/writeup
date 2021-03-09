@@ -109,7 +109,7 @@ Ahora, el puerto 80 y 443 parecen ser interesantes ya que nos arroja un titulo d
 
 Si accedemos a la seccion de phpmyadmin, podemos ver que nos lanza un error "ACCESS FORBIDDEN!" pero como en todos los lugares que aparezca "webmaster" siempre es importante ver si nos proporcionan algún correo del admin, ya que nos podría funcionar como usuario potencial al intentar fuerza bruta en otro servicio y vualá, vemos que ahí está una flag.
 
-![im1](img/ccc.PNG)
+![im1](img/ccc.png)
 
 Al hacer fuzzing de directorios no nos arrojó nada y di por hecho que es todo lo que encontraré en este sitio. Por lo tanto pasaré a probar el servicio SMB.
 intentaré comprobar si me permite acceder por sesiones nulas.
@@ -278,7 +278,7 @@ Según el CVE-2016-3088, hay una vulnerabilidad que nos permite subir una webshe
 
 así que al intentar subir la webshell, se sube sin problema alguno.
 
-![im5](img/6.PNG)
+![im5](img/6.png)
 
 la webshell que se envió fue esta:
 ```
@@ -311,7 +311,7 @@ la webshell que se envió fue esta:
 ```
 
 Ahora, al acceder a nuestra webshell, podemos ver que podemos ejecutar comandos correctamente.
-![im5](img/7.PNG)
+![im5](img/7.png)
 
 Ahora lo que sigue es descargar una reverse shell en la maquina victima para entablarnos una shell.
 para ello utilizaremos msfvenom
@@ -328,7 +328,7 @@ ahora descargamos nuestro exe con la ayuda de certutil que es la "versión" wget
 
 y vualá, tenemos shell.
 
-![im5](img/333.PNG)
+![im5](img/333.png)
 
 ahora sólo queda buscar la última flag que está en "Documents" y listo, tendríamos a Hollywood terminada.
 
