@@ -1,6 +1,6 @@
 # WRITEUP ELMARIACHI-PC 
 
-### ENUMERACIÓN
+### ESCANEO
 #### 10.150.150.69	Windows	Easy
 Al hacer un escaneo de puertos encontramos lo siguiente:
 ```
@@ -35,7 +35,7 @@ Al intentar acceder al servicio RDP, podemos observar que sí nos da conexión p
 
 ![imagen](img/e.PNG)
 
-
+### ENUMERACIÓN
 Ahora, intentaré enumerar las versiones y sus servicios para ver si hay algo interesante.
 
 ```
@@ -90,7 +90,7 @@ Al intentar entrar a ese servicio por un navegador, nos lanza el siguiente mensa
 
 ![imagen2](img/imagen_2021-03-09_002010.png)
 
-
+### EXPLOTACIÓN
 `ThinVNC crea una vista de tu Escritorio y la sirve a través del navegador web.`
 Eso es lo que nos dice google al hacer una busqueda de ese servicio. Por lo tanto lo primero que debemos hacer al encontrar un servicio, es buscar si tiene alguna vulnerabilidad pública. Al ejecutar "Searchsploit thinVNC" lo que encuentra es una vulnerabilidad tipo "Authentication Bypass" (CVE-2019-17662)
 
