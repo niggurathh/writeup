@@ -6,10 +6,7 @@
   * [Bypass CSP script-src con google](web/BypassCSPWithGoogle)
 
 ## Maquinas PwnTilldawn
-  * [ElMariachi-PC](pwntilldawn/ElMariachi-PC)
-  * [Margheriti-Server](pwntilldawn/Margheriti-Server)
-  * [Stuntman Mike](pwntilldawn/Stuntman%20Mike)
-  * [Django](pwntilldawn/Django)
-  * [Hollywood](pwntilldawn/Hollywood)
-  * [Vega](pwntilldawn/Vega)
-  * [Mr. Blue](pwntilldawn/Mr.%20Blue)
+  * [Easy](pwntilldawn/easy)
+  * [Medium](pwntilldawn/medium)
+  * [Difficult](pwntilldawn/Difficult)
+
