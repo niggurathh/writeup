@@ -8,5 +8,5 @@
 ## Maquinas PwnTilldawn
   * [Easy](pwntilldawn/easy)
   * [Medium](pwntilldawn/medium)
-  * [Difficult](pwntilldawn/Difficult)
+  * [Difficult](pwntilldawn/difficult)
 
