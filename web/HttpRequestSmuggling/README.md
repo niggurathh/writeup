@@ -86,3 +86,5 @@ A continuación, como suponíamos que un bot estuviera enviando nuestra flag cad
     * [http-desync-attacks-request-smuggling](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn)
 
 
+
+Contacto: [Linkedin](www.linkedin.com/in/JairR) [Twitter](https://twitter.com/_niggurath_)
