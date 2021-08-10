@@ -24,4 +24,4 @@ En ese ejemplo, enviamos las cookies a nuestro cliente burp con un bypass de csp
 
 
 
-Contacto: [Linkedin](www.linkedin.com/in/JairR) [Twitter](https://twitter.com/_niggurath_)
+Contacto: [Linkedin](https://www.linkedin.com/in/jairr/) [Twitter](https://twitter.com/_niggurath_)
