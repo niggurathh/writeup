@@ -35,4 +35,4 @@ Puedes encontrar más payloads [aquí](https://github.com/swisskyrepo/PayloadsAl
 En el ejemplo de arriba, se puede apreciar la llave secreta, y ya con eso simplemente buscamos un script que pueda generar una cookies y vualá, tendríamos el poder de generar cuantas cookies quieras.
 
 
-Contacto: [Linkedin](www.linkedin.com/in/JairR) [Twitter](https://twitter.com/_niggurath_)
+Contacto: [Linkedin](https://www.linkedin.com/in/jairr/) [Twitter](https://twitter.com/_niggurath_)
