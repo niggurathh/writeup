@@ -11,7 +11,7 @@
   * [Difficult](pwntilldawn/difficult)
 
 ## Papers 
- * [Notas](Papers)
+ * [Notas](XSS + WEBHOOK)
 
 
 
